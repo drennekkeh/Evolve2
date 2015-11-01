@@ -7,6 +7,12 @@ gtk-button-images = 0 # Disables icons in buttons
 gtk-toolbar-style = 1 # Enables text in toolbar
 gtk-auto-mnemonics = 1 # Disables ugly lines under menu items
 
+#test
+#test2
+#test3
+#test4
+#test5
+#test6
 # Default Style
 
 style "evolve-default" {
