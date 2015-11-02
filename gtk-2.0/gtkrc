@@ -13,6 +13,7 @@ gtk-auto-mnemonics = 1 # Disables ugly lines under menu items
 #test4
 #test5
 #test6
+#issue_test
 # Default Style
 
 style "evolve-default" {
